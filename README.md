@@ -8,7 +8,7 @@
 | No. | Questions |
 | --- | --------- |
 |   | ** ARRAY ** |
-|1  |   [Two Sum](https://leetcode.com/problems/two-sum/) |
+|1  |   [Two Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/TwoSum.py) |
 |2  |   [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 |3  |   [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |
 |4  |   [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |
