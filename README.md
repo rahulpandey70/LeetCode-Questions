@@ -1,7 +1,7 @@
-# Top Leetcode DSA Question With Solution in Python
+# Top Leetcode DSA Question With Solution (Language Independent)
 
 > Click :star: if you like the project. Pull Request are highly appreciated.
-> You can add more important question's with solution's in seperate folder. 
+> You can add more important question's and solution's also. 
 
 ### Question List
 
