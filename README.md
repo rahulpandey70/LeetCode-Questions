@@ -1,6 +1,7 @@
 # Top Leetcode DSA Question With Solution in Python
 
 > Click :star: if you like the project. Pull Request are highly appreciated.
+> You can add more important question's with solution's in seperate folder. 
 
 ### Question List
 
@@ -17,7 +18,6 @@
 |8  |   [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 |9  |   [3Sum](https://leetcode.com/problems/3sum/) |
 |10 |   [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |
-
 |   | ** BINARY ** |
 |1  |   [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |
 |2  |   [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |
