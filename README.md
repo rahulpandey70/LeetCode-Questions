@@ -21,9 +21,11 @@ Below is the list of some of the most used Big O notations and their performance
 | **O(2^N)**     | 1024                         | 1.26e+29                      | 1.07e+301                       |
 | **O(N!)**      | 3628800                      | 9.3e+157                      | 4.02e+2567                      |
 
-### Data Structure Operations Complexity
+### Big O Graph Chart
 
 ![Screenshots](./assets/graph.png)
+
+### Data Structure Operations Complexity
 
 ![Screenshots](./assets/commonDataStructure.png)
 
