@@ -1,6 +1,6 @@
 # LeetCode Question (Language Only Python)
 > Click :star: if you like the project. Pull Request are highly appreciated.
-## Usefull Information.
+## Useful Information.
 
 ### Big O Notation
 
