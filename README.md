@@ -1,8 +1,8 @@
-## Top Leetcode DSA Question With Solution (Language Independent)
-
+# LeetCode Question (Language Only Python)
 > Click :star: if you like the project. Pull Request are highly appreciated.
-> Add more DSA question's and solution. 
-
+<br>
+> Add DSA question's and solution. 
+<br>
 ### Question List
 
 | No. | Questions |
