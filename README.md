@@ -2,7 +2,9 @@
 > Click :star: if you like the project. Pull Request are highly appreciated.
 <br>
 > Add DSA question's and solution. 
+
 ### Question List
+
 | No. | Questions |
 | --- | --------- |
 |1  |   [Two Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/TwoSum.py) |
