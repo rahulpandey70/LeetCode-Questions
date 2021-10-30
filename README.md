@@ -17,8 +17,8 @@
 |8  |   [Search in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/SearchinRotatedSortedArray.py) |
 |9  |   [3Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/3Sum.py) |
 |10 |   [Container With Most Water](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainerWithMostWater.py) |
-|11  |   [Sum of Two Integers]() |
-|12  |   [Number of 1 Bits]() |
+|11  |   [Sum of Two Integers](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SumoftwoIntegers.py) |
+|12  |   [Number of 1 Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/Numberof1Bits.py) |
 |13  |   [Counting Bits]() |
 |14  |   [Missing Number]() |
 |15  |   [Reverse Bits]() |
