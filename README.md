@@ -46,7 +46,7 @@ Below is the list of some of the most used Big O notations and their performance
 |10 |   [Container With Most Water](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainerWithMostWater.py) |
 |11  |   [Sum of Two Integers](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SumoftwoIntegers.py) |
 |12  |   [Number of 1 Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/Numberof1Bits.py) |
-|13  |   [Counting Bits]() |
+|13  |   [Counting Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/CountingBits.py) |
 |14  |   [Missing Number]() |
 |15  |   [Reverse Bits]() |
 |16  |   [Climbing Stairs]()    |
