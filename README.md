@@ -35,87 +35,87 @@ Below is the list of some of the most used Big O notations and their performance
 
 ### Question List
 
-| No. | Questions                                                                                                                                        | Done or Not  |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | --- |
-| 1   | [Two Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/TwoSum.py)                                                       | Done         |
-| 2   | [Best Time to Buy and Sell Stock](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/StockBuySell.py)                         | Done         |
-| 3   | [Contains Duplicate](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainsDuplicate.py)                                 | Done         |
-| 4   | [Product of Array Except Self](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/Productofarrayexceptself.py)                | Done         |
+| No. | Questions                                                                                                                                        | Done or Not |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| 1   | [Two Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/TwoSum.py)                                                       | Done        |
+| 2   | [Best Time to Buy and Sell Stock](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/StockBuySell.py)                         | Done        |
+| 3   | [Contains Duplicate](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainsDuplicate.py)                                 | Done        |
+| 4   | [Product of Array Except Self](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/Productofarrayexceptself.py)                | Done        |
 | 5   | [Maximum Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/MaximumSubarray.py)                                     |
-| 6   | [Maximum Product Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/MaximumProductSubarray.py)                      | Done         |
-| 7   | [Find Minimum in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/FindMinimuminRotatedSortedArray.py) | Done         |
-| 8   | [Search in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/SearchinRotatedSortedArray.py)            | Done         |
-| 9   | [3Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/3Sum.py)                                                            | Done         |
-| 10  | [Container With Most Water](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainerWithMostWater.py)                     | Done         |
-| 11  | [Sum of Two Integers](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SumoftwoIntegers.py)                            | Done         |
-| 12  | [Number of 1 Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/Numberof1Bits.py)                                  | Done         |
-| 13  | [Counting Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/CountingBits.py)                                      | Done         |
-| 14  | [Missing Number](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MissingNumber.py)                                    | Done         |
-| 15  | [Reverse Bits]()                                                                                                                                 | Not Done     |     |
-| 16  | [Climbing Stairs](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ClimbingStairs.py)                                  | Done         |
-| 17  | [Coin Change]()                                                                                                                                  | Not Done     |
-| 18  | [Longest Increasing Subsequence]()                                                                                                               | Not Done     |
-| 19  | [Longest Common Subsequence]()                                                                                                                   | Not Done     |
-| 20  | [Word Break Problem]()                                                                                                                           | Not Done     |
-| 21  | [Combination Sum]()                                                                                                                              | Not Done     |
-| 22  | [House Robber]()                                                                                                                                 | Not Done     |
-| 23  | [House Robber II]()                                                                                                                              | Not Done     |
-| 24  | [Decode Ways]()                                                                                                                                  | Not Done     |
-| 25  | [Unique Paths]()                                                                                                                                 | Not Done     |
-| 26  | [Jump Game]()                                                                                                                                    | Not Not Done |
-| 27  | [Clone Graph]()                                                                                                                                  | Not Done     |
-| 28  | [Course Schedule]()                                                                                                                              | Not Done     |
-| 29  | [Pacific Atlantic Water Flow]()                                                                                                                  | Not Done     |
-| 30  | [Number of Islands]()                                                                                                                            | Not Done     |
-| 31  | [Longest Consecutive Sequence]()                                                                                                                 | Not Done     |
-| 32  | [Alien Dictionary (Leetcode Premium)]()                                                                                                          | Not Done     |
-| 33  | [Graph Valid Tree (Leetcode Premium)]()                                                                                                          | Not Done     |
-| 34  | [Number of Connected Components in an Undirected Graph (Leetcode Premium)]()                                                                     | Not Done     |
-| 35  | [Insert Interval]()                                                                                                                              | Not Done     |
-| 36  | [Merge Intervals]()                                                                                                                              | Not Done     |
-| 37  | [Non-overlapping Intervals]()                                                                                                                    | Not Done     |
-| 38  | [Meeting Rooms (Leetcode Premium)]()                                                                                                             | Not Done     |
-| 39  | [Meeting Rooms II (Leetcode Premium)]()                                                                                                          | Not Done     |
-| 40  | [Reverse a Linked List]()                                                                                                                        | Not Done     |
-| 41  | [Detect Cycle in a Linked List]()                                                                                                                | Not Done     |
-| 42  | [Merge Two Sorted Lists]()                                                                                                                       | Not Done     |
-| 43  | [Merge K Sorted Lists]()                                                                                                                         | Not Done     |
-| 44  | [Remove Nth Node From End Of List]()                                                                                                             | Not Done     |
-| 45  | [Reorder List]()                                                                                                                                 | Not Done     |
-| 46  | [Set Matrix Zeroes]()                                                                                                                            | Not Done     |
-| 47  | [Spiral Matrix]()                                                                                                                                | Not Done     |
-| 48  | [Rotate Image]()                                                                                                                                 | Not Done     |
-| 49  | [Word Search]()                                                                                                                                  | Not Done     |
-| 50  | [Longest Substring Without Repeating Characters]()                                                                                               | Not Done     |
-| 51  | [Longest Repeating Character Replacement]()                                                                                                      | Not Done     |
-| 52  | [Minimum Window Substring]()                                                                                                                     | Not Done     |
-| 53  | [Valid Anagram]()                                                                                                                                | Not Done     |
-| 54  | [Group Anagrams]()                                                                                                                               | Not Done     |
-| 55  | [Valid Parentheses]()                                                                                                                            | Not Done     |
-| 56  | [Valid Palindrome]()                                                                                                                             | Not Done     |
-| 57  | [Longest Palindromic Substring]()                                                                                                                | Not Done     |
-| 58  | [Palindromic Substrings]()                                                                                                                       | Not Done     |
-| 59  | [Encode and Decode Strings (Leetcode Premium)]()                                                                                                 | Not Done     |
-| 60  | [Maximum Depth of Binary Tree]()                                                                                                                 | Not Done     |
-| 61  | [Same Tree]()                                                                                                                                    | Not Done     |
-| 62  | [Invert/Flip Binary Tree]()                                                                                                                      | Not Done     |
-| 63  | [Binary Tree Maximum Path Sum]()                                                                                                                 | Not Done     |
-| 64  | [Binary Tree Level Order Traversal]()                                                                                                            | Not Done     |
-| 65  | [Serialize and Deserialize Binary Tree]()                                                                                                        | Not Done     |
-| 66  | [Subtree of Another Tree]()                                                                                                                      | Not Done     |
-| 67  | [Construct Binary Tree from Preorder and Inorder Traversal]()                                                                                    | Not Done     |
-| 68  | [Validate Binary Search Tree]()                                                                                                                  | Not Done     |
-| 69  | [Kth Smallest Element in a BST]()                                                                                                                | Not Done     |
-| 70  | [Lowest Common Ancestor of BST]()                                                                                                                | Not Done     |
-| 71  | [Implement Trie (Prefix Tree)]()                                                                                                                 | Not Done     |
-| 72  | [Add and Search Word]()                                                                                                                          | Not Done     |
-| 73  | [Word Search II]()                                                                                                                               | Not Done     |
-| 74  | [Merge K Sorted Lists]()                                                                                                                         | Not Done     |
-| 75  | [Top K Frequent Elements]()                                                                                                                      | Not Done     |
-| 76  | [Find Median from Data Stream]()                                                                                                                 | Not Done     |
-| 78  | [Add Two Numbers]()                                                                                                                              | Not Done     |
-| 79  | [Median of two Sorted Arrays]()                                                                                                                  | Not Done     |
-| 80  | [ZigZag Conversion]()                                                                                                                            | Not Done     |
+| 6   | [Maximum Product Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/MaximumProductSubarray.py)                      | Done        |
+| 7   | [Find Minimum in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/FindMinimuminRotatedSortedArray.py) | Done        |
+| 8   | [Search in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/SearchinRotatedSortedArray.py)            | Done        |
+| 9   | [3Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/3Sum.py)                                                            | Done        |
+| 10  | [Container With Most Water](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainerWithMostWater.py)                     | Done        |
+| 11  | [Sum of Two Integers](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SumoftwoIntegers.py)                            | Done        |
+| 12  | [Number of 1 Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/Numberof1Bits.py)                                  | Done        |
+| 13  | [Counting Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/CountingBits.py)                                      | Done        |
+| 14  | [Missing Number](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MissingNumber.py)                                    | Done        |
+| 15  | [Reverse Bits]()                                                                                                                                 |
+| 16  | [Climbing Stairs](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ClimbingStairs.py)                                  | Done        |
+| 17  | [Coin Change]()                                                                                                                                  | Done        |
+| 18  | [Longest Increasing Subsequence]()                                                                                                               | Done        |
+| 19  | [Longest Common Subsequence]()                                                                                                                   | Done        |
+| 20  | [Word Break Problem]()                                                                                                                           | Done        |
+| 21  | [Combination Sum]()                                                                                                                              | Done        |
+| 22  | [House Robber]()                                                                                                                                 | Done        |
+| 23  | [House Robber II]()                                                                                                                              | Done        |
+| 24  | [Decode Ways]()                                                                                                                                  | Done        |
+| 25  | [Unique Paths]()                                                                                                                                 | Done        |
+| 26  | [Jump Game]()                                                                                                                                    | Done        |
+| 27  | [Clone Graph]()                                                                                                                                  | Done        |
+| 28  | [Course Schedule]()                                                                                                                              | Done        |
+| 29  | [Pacific Atlantic Water Flow]()                                                                                                                  | Done        |
+| 30  | [Number of Islands]()                                                                                                                            | Done        |
+| 31  | [Longest Consecutive Sequence]()                                                                                                                 | Done        |
+| 32  | [Alien Dictionary (Leetcode Premium)]()                                                                                                          | Done        |
+| 33  | [Graph Valid Tree (Leetcode Premium)]()                                                                                                          | Done        |
+| 34  | [Number of Connected Components in an Undirected Graph (Leetcode Premium)]()                                                                     | Done        |
+| 35  | [Insert Interval]()                                                                                                                              | Done        |
+| 36  | [Merge Intervals]()                                                                                                                              | Done        |
+| 37  | [Non-overlapping Intervals]()                                                                                                                    | Done        |
+| 38  | [Meeting Rooms (Leetcode Premium)]()                                                                                                             | Done        |
+| 39  | [Meeting Rooms II (Leetcode Premium)]()                                                                                                          | Done        |
+| 40  | [Reverse a Linked List]()                                                                                                                        | Done        |
+| 41  | [Detect Cycle in a Linked List]()                                                                                                                | Done        |
+| 42  | [Merge Two Sorted Lists]()                                                                                                                       | Done        |
+| 43  | [Merge K Sorted Lists]()                                                                                                                         | Done        |
+| 44  | [Remove Nth Node From End Of List]()                                                                                                             | Done        |
+| 45  | [Reorder List]()                                                                                                                                 | Done        |
+| 46  | [Set Matrix Zeroes]()                                                                                                                            | Done        |
+| 47  | [Spiral Matrix]()                                                                                                                                | Done        |
+| 48  | [Rotate Image]()                                                                                                                                 | Done        |
+| 49  | [Word Search]()                                                                                                                                  | Done        |
+| 50  | [Longest Substring Without Repeating Characters]()                                                                                               | Done        |
+| 51  | [Longest Repeating Character Replacement]()                                                                                                      | Done        |
+| 52  | [Minimum Window Substring]()                                                                                                                     | Done        |
+| 53  | [Valid Anagram]()                                                                                                                                | Done        |
+| 54  | [Group Anagrams]()                                                                                                                               | Done        |
+| 55  | [Valid Parentheses]()                                                                                                                            | Done        |
+| 56  | [Valid Palindrome]()                                                                                                                             | Done        |
+| 57  | [Longest Palindromic Substring]()                                                                                                                | Done        |
+| 58  | [Palindromic Substrings]()                                                                                                                       | Done        |
+| 59  | [Encode and Decode Strings (Leetcode Premium)]()                                                                                                 | Done        |
+| 60  | [Maximum Depth of Binary Tree]()                                                                                                                 | Done        |
+| 61  | [Same Tree]()                                                                                                                                    | Done        |
+| 62  | [Invert/Flip Binary Tree]()                                                                                                                      | Done        |
+| 63  | [Binary Tree Maximum Path Sum]()                                                                                                                 | Done        |
+| 64  | [Binary Tree Level Order Traversal]()                                                                                                            | Done        |
+| 65  | [Serialize and Deserialize Binary Tree]()                                                                                                        | Done        |
+| 66  | [Subtree of Another Tree]()                                                                                                                      | Done        |
+| 67  | [Construct Binary Tree from Preorder and Inorder Traversal]()                                                                                    | Done        |
+| 68  | [Validate Binary Search Tree]()                                                                                                                  | Done        |
+| 69  | [Kth Smallest Element in a BST]()                                                                                                                | Done        |
+| 70  | [Lowest Common Ancestor of BST]()                                                                                                                | Done        |
+| 71  | [Implement Trie (Prefix Tree)]()                                                                                                                 | Done        |
+| 72  | [Add and Search Word]()                                                                                                                          | Done        |
+| 73  | [Word Search II]()                                                                                                                               | Done        |
+| 74  | [Merge K Sorted Lists]()                                                                                                                         | Done        |
+| 75  | [Top K Frequent Elements]()                                                                                                                      | Done        |
+| 76  | [Find Median from Data Stream]()                                                                                                                 | Done        |
+| 78  | [Add Two Numbers]()                                                                                                                              | Done        |
+| 79  | [Median of two Sorted Arrays]()                                                                                                                  | Done        |
+| 80  | [ZigZag Conversion]()                                                                                                                            | Done        |
 
 <div align="center">
     <b><a href="#">↥ back to top</a></b>
