@@ -53,15 +53,15 @@ Below is the list of some of the most used Big O notations and their performance
 | 14  | [Missing Number](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MissingNumber.py)                                    | Done        |
 | 15  | [Reverse Bits]()                                                                                                                                 |
 | 16  | [Climbing Stairs](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ClimbingStairs.py)                                  | Done        |
-| 17  | [Coin Change]()                                                                                                                                  | Done        |
-| 18  | [Longest Increasing Subsequence]()                                                                                                               | Done        |
-| 19  | [Longest Common Subsequence]()                                                                                                                   | Done        |
-| 20  | [Word Break Problem]()                                                                                                                           | Done        |
-| 21  | [Combination Sum]()                                                                                                                              | Done        |
+| 17  | [Coin Change]()                                                                                                                                  |
+| 18  | [Longest Increasing Subsequence]()                                                                                                               |
+| 19  | [Longest Common Subsequence]()                                                                                                                   |
+| 20  | [Word Break Problem]()                                                                                                                           |
+| 21  | [Combination Sum]()                                                                                                                              |
 | 22  | [House Robber]()                                                                                                                                 | Done        |
-| 23  | [House Robber II]()                                                                                                                              | Done        |
-| 24  | [Decode Ways]()                                                                                                                                  | Done        |
-| 25  | [Unique Paths]()                                                                                                                                 | Done        |
+| 23  | [House Robber II]()                                                                                                                              |
+| 24  | [Decode Ways]()                                                                                                                                  |
+| 25  | [Unique Paths]()                                                                                                                                 |
 | 26  | [Jump Game]()                                                                                                                                    | Done        |
 | 27  | [Clone Graph]()                                                                                                                                  | Done        |
 | 28  | [Course Schedule]()                                                                                                                              | Done        |
