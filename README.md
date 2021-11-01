@@ -37,7 +37,7 @@ Below is the list of some of the most used Big O notations and their performance
 
 | No. | Questions | Done or Not |
 
-| | - | - |
+| - | - | - |
 
 | 1 | [Two Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/TwoSum.py) | Done | |
 | 2 | [Best Time to Buy and Sell Stock](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/StockBuySell.py) | Done | |
@@ -55,69 +55,69 @@ Below is the list of some of the most used Big O notations and their performance
 | 14 | [Missing Number](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MissingNumber.py) | Done | |
 | 15 | [Reverse Bits]() |
 | 16 | [Climbing Stairs](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ClimbingStairs.py) | Done | |
-| 17 | [Coin Change]() |
-| 18 | [Longest Increasing Subsequence]() |
-| 19 | [Longest Common Subsequence]() |
-| 20 | [Word Break Problem]() |
-| 21 | [Combination Sum]() |
-| 22 | [House Robber]() |
-| 23 | [House Robber II]() |
-| 24 | [Decode Ways]() |
-| 25 | [Unique Paths]() |
-| 26 | [Jump Game]() |
-| 27 | [Clone Graph]() |
-| 28 | [Course Schedule]() |
-| 29 | [Pacific Atlantic Water Flow]() |
-| 30 | [Number of Islands]() |
-| 31 | [Longest Consecutive Sequence]() |
-| 32 | [Alien Dictionary (Leetcode Premium)]() |
-| 33 | [Graph Valid Tree (Leetcode Premium)]() |
-| 34 | [Number of Connected Components in an Undirected Graph (Leetcode Premium)]() |
-| 35 | [Insert Interval]() |
-| 36 | [Merge Intervals]() |
-| 37 | [Non-overlapping Intervals]() |
-| 38 | [Meeting Rooms (Leetcode Premium)]() |
-| 39 | [Meeting Rooms II (Leetcode Premium)]() |
-| 40 | [Reverse a Linked List]() |
-| 41 | [Detect Cycle in a Linked List]() |
-| 42 | [Merge Two Sorted Lists]() |
-| 43 | [Merge K Sorted Lists]() |
-| 44 | [Remove Nth Node From End Of List]() |
-| 45 | [Reorder List]() |
-| 46 | [Set Matrix Zeroes]() |
-| 47 | [Spiral Matrix]() |
-| 48 | [Rotate Image]() |
-| 49 | [Word Search]() |
-| 50 | [Longest Substring Without Repeating Characters]() |
-| 51 | [Longest Repeating Character Replacement]() |
-| 52 | [Minimum Window Substring]() |
-| 53 | [Valid Anagram]() |
-| 54 | [Group Anagrams]() |
-| 55 | [Valid Parentheses]() |
-| 56 | [Valid Palindrome]() |
-| 57 | [Longest Palindromic Substring]() |
-| 58 | [Palindromic Substrings]() |
-| 59 | [Encode and Decode Strings (Leetcode Premium)]() |
-| 60 | [Maximum Depth of Binary Tree]() |
-| 61 | [Same Tree]() |
-| 62 | [Invert/Flip Binary Tree]() |
-| 63 | [Binary Tree Maximum Path Sum]() |
-| 64 | [Binary Tree Level Order Traversal]() |
-| 65 | [Serialize and Deserialize Binary Tree]() |
-| 66 | [Subtree of Another Tree]() |
-| 67 | [Construct Binary Tree from Preorder and Inorder Traversal]() |
-| 68 | [Validate Binary Search Tree]() |
-| 69 | [Kth Smallest Element in a BST]() |
-| 70 | [Lowest Common Ancestor of BST]() |
-| 71 | [Implement Trie (Prefix Tree)]() |
-| 72 | [Add and Search Word]() |
-| 73 | [Word Search II]() |
-| 74 | [Merge K Sorted Lists]() |
-| 75 | [Top K Frequent Elements]() |
-| 76 | [Find Median from Data Stream]() |
-| 78 | [Add Two Numbers]() |
-| 79 | [Median of two Sorted Arrays]() |
-| 80 | [ZigZag Conversion]() |
+| 17 | [Coin Change]() | Done | |
+| 18 | [Longest Increasing Subsequence]() | Done ||
+| 19 | [Longest Common Subsequence]() | Done | |
+| 20 | [Word Break Problem]() | Done ||
+| 21 | [Combination Sum]() | Done | |
+| 22 | [House Robber]() | Done ||
+| 23 | [House Robber II]() | Done | |
+| 24 | [Decode Ways]() | Done | |
+| 25 | [Unique Paths]() | Done ||
+| 26 | [Jump Game]() | Done ||
+| 27 | [Clone Graph]() | Done | |
+| 28 | [Course Schedule]() | Done ||
+| 29 | [Pacific Atlantic Water Flow]() | Done ||
+| 30 | [Number of Islands]() | Done ||
+| 31 | [Longest Consecutive Sequence]() | Done | |
+| 32 | [Alien Dictionary (Leetcode Premium)]() | Done | |
+| 33 | [Graph Valid Tree (Leetcode Premium)]() | Done | |
+| 34 | [Number of Connected Components in an Undirected Graph (Leetcode Premium)]() | Done ||
+| 35 | [Insert Interval]() | Done ||
+| 36 | [Merge Intervals]() | Done ||
+| 37 | [Non-overlapping Intervals]() | Done ||
+| 38 | [Meeting Rooms (Leetcode Premium)]() | Done ||
+| 39 | [Meeting Rooms II (Leetcode Premium)]() | Done ||
+| 40 | [Reverse a Linked List]() | Done ||
+| 41 | [Detect Cycle in a Linked List]() | Done ||
+| 42 | [Merge Two Sorted Lists]() | Done ||
+| 43 | [Merge K Sorted Lists]() | Done ||
+| 44 | [Remove Nth Node From End Of List]() | Done | |
+| 45 | [Reorder List]() | Done ||
+| 46 | [Set Matrix Zeroes]() | Done ||
+| 47 | [Spiral Matrix]() | Done ||
+| 48 | [Rotate Image]() | Done ||
+| 49 | [Word Search]() | Done ||
+| 50 | [Longest Substring Without Repeating Characters]() | Done | |
+| 51 | [Longest Repeating Character Replacement]() | Done ||
+| 52 | [Minimum Window Substring]() | Done ||
+| 53 | [Valid Anagram]() | Done ||
+| 54 | [Group Anagrams]() | Done ||
+| 55 | [Valid Parentheses]() | Done ||
+| 56 | [Valid Palindrome]() | Done ||
+| 57 | [Longest Palindromic Substring]() | Done ||
+| 58 | [Palindromic Substrings]() | Done ||
+| 59 | [Encode and Decode Strings (Leetcode Premium)]() | Done ||
+| 60 | [Maximum Depth of Binary Tree]() | Done ||
+| 61 | [Same Tree]() | Done ||
+| 62 | [Invert/Flip Binary Tree]() | Done ||
+| 63 | [Binary Tree Maximum Path Sum]() | Done ||
+| 64 | [Binary Tree Level Order Traversal]() | Done ||
+| 65 | [Serialize and Deserialize Binary Tree]() | Done ||
+| 66 | [Subtree of Another Tree]() | Done ||
+| 67 | [Construct Binary Tree from Preorder and Inorder Traversal]() | Done | |
+| 68 | [Validate Binary Search Tree]() | Done ||
+| 69 | [Kth Smallest Element in a BST]() | Done ||
+| 70 | [Lowest Common Ancestor of BST]() | Done ||
+| 71 | [Implement Trie (Prefix Tree)]() | Done ||
+| 72 | [Add and Search Word]() | Done ||
+| 73 | [Word Search II]() | Done ||
+| 74 | [Merge K Sorted Lists]() | Done ||
+| 75 | [Top K Frequent Elements]() | Done ||
+| 76 | [Find Median from Data Stream]() | Done ||
+| 78 | [Add Two Numbers]() | Done ||
+| 79 | [Median of two Sorted Arrays]() | Done ||
+| 80 | [ZigZag Conversion]() | Done ||
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
