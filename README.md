@@ -39,12 +39,12 @@ Below is the list of some of the most used Big O notations and their performance
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --- |
 | 1   | [Two Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/TwoSum.py)                                                       | Done        |
 | 2   | [Best Time to Buy and Sell Stock](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/StockBuySell.py)                         | Done        |
-| 3   | [Contains Duplicate](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainsDuplicate.py)                                 | Done        |
-| 4   | [Product of Array Except Self](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/Productofarrayexceptself.py)                | Done        |
-| 5   | [Maximum Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/MaximumSubarray.py)                                     | Done        |
-| 6   | [Maximum Product Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/MaximumProductSubarray.py)                      | Done        |
-| 7   | [Find Minimum in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/FindMinimuminRotatedSortedArray.py) | Done        |
-| 8   | [Search in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/SearchinRotatedSortedArray.py)            | Done        |
+| 3   | [Contains Duplicate](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainsDuplicate.py)                                 | Done        |     |
+| 4   | [Product of Array Except Self](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/Productofarrayexceptself.py)                | Done        |     |
+| 5   | [Maximum Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/MaximumSubarray.py)                                     |
+| 6   | [Maximum Product Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/MaximumProductSubarray.py)                      | Done        |     |
+| 7   | [Find Minimum in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/FindMinimuminRotatedSortedArray.py) | Done        |     |
+| 8   | [Search in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/SearchinRotatedSortedArray.py)            | Done        |     |
 | 9   | [3Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/3Sum.py)                                                            | Done        |     |
 | 10  | [Container With Most Water](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainerWithMostWater.py)                     | Done        |     |
 | 11  | [Sum of Two Integers](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SumoftwoIntegers.py)                            | Done        |     |
