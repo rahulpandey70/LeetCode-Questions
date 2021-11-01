@@ -36,7 +36,9 @@ Below is the list of some of the most used Big O notations and their performance
 ### Question List
 
 | No. | Questions | Done or Not |
+
 | | - | - |
+
 | 1 | [Two Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/TwoSum.py) | Done | |
 | 2 | [Best Time to Buy and Sell Stock](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/StockBuySell.py) | Done | |
 | 3 | [Contains Duplicate](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainsDuplicate.py) | Done | |
