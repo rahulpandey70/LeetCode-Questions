@@ -1,8 +1,9 @@
 # LeetCode Question (Language Only Python)
-> Click :star: if you like the project. Pull Request are highly appreciated.
-## Useful Information.
+> Click :star: if you like the project. Send Pull Request(PR) with your solution and not only solution you can also add question.
 
-### Big O Notation
+# Useful Information.
+
+## Big O Notation
 
 *Big O notation* is used to classify algorithms according to how their running time or space requirements grow as the input size grows.
 On the chart below you may find most common orders of growth of algorithms specified in Big O notation.
