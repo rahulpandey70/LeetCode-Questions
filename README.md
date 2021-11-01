@@ -35,24 +35,24 @@ Below is the list of some of the most used Big O notations and their performance
 
 ### Question List
 
-| No. | Questions                                                                                                                                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | [Two Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/TwoSum.py)                                                       |
-| 2   | [Best Time to Buy and Sell Stock](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/StockBuySell.py)                         |
-| 3   | [Contains Duplicate](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainsDuplicate.py)                                 |
-| 4   | [Product of Array Except Self](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/Productofarrayexceptself.py)                |
+| No. | Questions                                                                                                                                        | Done or Not |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --- |
+| 1   | [Two Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/TwoSum.py)                                                       | Done        |     |
+| 2   | [Best Time to Buy and Sell Stock](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/StockBuySell.py)                         | Done        |     |
+| 3   | [Contains Duplicate](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainsDuplicate.py)                                 | Done        |     |
+| 4   | [Product of Array Except Self](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/Productofarrayexceptself.py)                | Done        |     |
 | 5   | [Maximum Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/MaximumSubarray.py)                                     |
-| 6   | [Maximum Product Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/MaximumProductSubarray.py)                      |
-| 7   | [Find Minimum in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/FindMinimuminRotatedSortedArray.py) |
-| 8   | [Search in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/SearchinRotatedSortedArray.py)            |
-| 9   | [3Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/3Sum.py)                                                            |
-| 10  | [Container With Most Water](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainerWithMostWater.py)                     |
-| 11  | [Sum of Two Integers](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SumoftwoIntegers.py)                            |
-| 12  | [Number of 1 Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/Numberof1Bits.py)                                  |
-| 13  | [Counting Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/CountingBits.py)                                      |
-| 14  | [Missing Number](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MissingNumber.py)                                    |
+| 6   | [Maximum Product Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/MaximumProductSubarray.py)                      | Done        |     |
+| 7   | [Find Minimum in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/FindMinimuminRotatedSortedArray.py) | Done        |     |
+| 8   | [Search in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/SearchinRotatedSortedArray.py)            | Done        |     |
+| 9   | [3Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/3Sum.py)                                                            | Done        |     |
+| 10  | [Container With Most Water](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Array/ContainerWithMostWater.py)                     | Done        |     |
+| 11  | [Sum of Two Integers](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SumoftwoIntegers.py)                            | Done        |     |
+| 12  | [Number of 1 Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/Numberof1Bits.py)                                  | Done        |     |
+| 13  | [Counting Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/CountingBits.py)                                      | Done        |     |
+| 14  | [Missing Number](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MissingNumber.py)                                    | Done        |     |
 | 15  | [Reverse Bits]()                                                                                                                                 |
-| 16  | [Climbing Stairs](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ClimbingStairs.py)                                  |
+| 16  | [Climbing Stairs](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ClimbingStairs.py)                                  | Done        |     |
 | 17  | [Coin Change]()                                                                                                                                  |
 | 18  | [Longest Increasing Subsequence]()                                                                                                               |
 | 19  | [Longest Common Subsequence]()                                                                                                                   |
