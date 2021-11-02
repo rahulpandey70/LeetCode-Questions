@@ -44,7 +44,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 5   | [Maximum Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MaximumSubarray.py)                                     | Done        |
 | 6   | [Maximum Product Subarray](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MaximumProductSubarray.py)                      | Done        |
 | 7   | [Find Minimum in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/FindMinimuminRotatedSortedArray.py) | Done        |
-| 8   | [Search in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SearchinRotatedSortedArray.py)            |
+| 8   | [Search in Rotated Sorted Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SearchinRotatedSortedArray.py)            | Done        |
 | 9   | [3Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/3Sum.py)                                                            | Done        |
 | 10  | [Container With Most Water](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ContainerWithMostWater.py)                     | Done        |
 | 11  | [Sum of Two Integers](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SumoftwoIntegers.py)                                 | Done        |
