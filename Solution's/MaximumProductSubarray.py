@@ -17,5 +17,15 @@
 
 """
 
-#TODO
 
+def maxProduct(self, nums):
+    max_overall = nums[0]
+    max_ending, min_ending = nums[0], nums[0]
+
+    for i in range(1, len(nums)):
+        temp = max_ending
+        max_ending = max({nums[i], nums[i] * max_ending, nums[i] * min_ending})
+        min_ending = min({nums[i], nums[i] * temp, nums[i] * min_ending})
+        max_overall = max(max_overall, max_ending)
+
+    return max_overall
