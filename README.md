@@ -78,7 +78,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 39  | [Meeting Rooms II (Leetcode Premium)]()                                                                                                               |
 | 40  | [Reverse a Linked List]()                                                                                                                             |
 | 41  | [Detect Cycle in a Linked List]()                                                                                                                     |
-| 42  | [Merge Two Sorted Lists]()                                                                                                                            |
+| 42  | [Merge Two Sorted Lists](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MergeTwoSortedList.py)                            | Done        |
 | 43  | [Merge K Sorted Lists]()                                                                                                                              |
 | 44  | [Remove Nth Node From End Of List]()                                                                                                                  |
 | 45  | [Reorder List]()                                                                                                                                      |
