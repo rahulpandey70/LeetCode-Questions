@@ -26,3 +26,14 @@ def reverseList(self, head):
         curr = temp
     return prev
 
+    # Recursive
+    if not head:
+        return None
+
+    newHead = head
+    if head.next:
+        newHead = self.reverseList(head.next)
+        head.next.next = head
+    head.next = None
+
+    return newHead
