@@ -118,6 +118,6 @@ Below is the list of some of the most used Big O notations and their performance
 | 79  | [Reverse Integer]()                                                                                                                                   |
 | 80  | [Search a 2D Matrix]()                                                                                                                                |
 
-<div align="center">
+<div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
