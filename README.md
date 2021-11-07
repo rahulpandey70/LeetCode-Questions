@@ -80,7 +80,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 41  | [Detect Cycle in a Linked List](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/DetectCycleInaLinkedList.py)               | Done        |
 | 42  | [Merge Two Sorted Lists](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MergeTwoSortedList.py)                            | Done        |
 | 43  | [Merge K Sorted Lists]()                                                                                                                              |
-| 44  | [Remove Nth Node From End Of List]()                                                                                                                  |
+| 44  | [Remove Nth Node From End Of List](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/RemoveNthNodeFromEndOfList.py)          | Done        |
 | 45  | [Reorder List]()                                                                                                                                      |
 | 46  | [Set Matrix Zeroes]()                                                                                                                                 |
 | 47  | [Spiral Matrix]()                                                                                                                                     |
