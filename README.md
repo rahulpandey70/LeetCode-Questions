@@ -54,7 +54,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 15  | [Reverse Bits](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ReverseBits.py)                                             | Done        |
 | 16  | [Climbing Stairs](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ClimbingStairs.py)                                       | Done        |
 | 17  | [Coin Change]()                                                                                                                                       |
-| 18  | [Longest Increasing Subsequence]()                                                                                                                    |
+| 18  | [Longest Increasing Subsequence](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/LongestIncreasingSubsequence.py)          | Done        |
 | 19  | [Longest Common Subsequence]()                                                                                                                        |
 | 20  | [Word Break Problem]()                                                                                                                                |
 | 21  | [Combination Sum]()                                                                                                                                   |
