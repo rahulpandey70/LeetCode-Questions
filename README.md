@@ -56,7 +56,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 17  | [Coin Change](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/CoinChange.py)                                               | Done        |
 | 18  | [Longest Increasing Subsequence](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/LongestIncreasingSubsequence.py)          | Done        |
 | 19  | [Longest Common Subsequence](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/LongestCommonSubsequence.py)                  | Done        |
-| 20  | [Word Break Problem]()                                                                                                                                |
+| 20  | [Word Break Problem](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/WordBreakProblem.py)                                  | Done        |
 | 21  | [Combination Sum]()                                                                                                                                   |
 | 22  | [House Robber]()                                                                                                                                      |
 | 23  | [House Robber II]()                                                                                                                                   |
