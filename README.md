@@ -119,5 +119,5 @@ Below is the list of some of the most used Big O notations and their performance
 | 80  | [Search a 2D Matrix]()                                                                                                                                |
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#">back to top</a></b>
 </div>
