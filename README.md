@@ -60,7 +60,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 21  | [Combination Sum](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/CominationSum.py)                                        | Done        |
 | 22  | [House Robber](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/HouseRobber.py)                                             | Done        |
 | 23  | [House Robber II](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/HouseRobber2.py)                                         | Done        |
-| 24  | [Decode Ways]()                                                                                                                                       |
+| 24  | [Decode Ways](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/DecodeWays.py)                                               | Done        |
 | 25  | [Unique Paths]()                                                                                                                                      |
 | 26  | [Jump Game]()                                                                                                                                         |
 | 27  | [Clone Graph]()                                                                                                                                       |
