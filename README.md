@@ -115,7 +115,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 76  | [Add Two Numbers]()                                                                                                                                   |
 | 77  | [Median of two Sorted Arrays]()                                                                                                                       |
 | 78  | [ZigZag Conversion]()                                                                                                                                 |
-| 79  | [Reverse Integer]()                                                                                                                                   |
+| 79  | [Reverse Integer](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ReverseInteger.py)                                       | Done        |
 | 80  | [Search a 2D Matrix]()                                                                                                                                |
 
 <div align="right">
