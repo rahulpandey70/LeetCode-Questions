@@ -117,7 +117,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 78  | [ZigZag Conversion]()                                                                                                                                 |
 | 79  | [Reverse Integer](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ReverseInteger.py)                                       | Done        |
 | 80  | [Search a 2D Matrix]()                                                                                                                                |
-| 80  | [Find in Mountain Array]()                                                                                                                            | Done        |
+| 80  | [Find in Mountain Array](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/FindInMountainArray.py)                           | Done        |
 
 <div align="right">
     <b><a href="#">back to top</a></b>
