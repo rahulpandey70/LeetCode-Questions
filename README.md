@@ -113,7 +113,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 74  | [Top K Frequent Elements]()                                                                                                                           |
 | 75  | [Find Median from Data Stream]()                                                                                                                      |
 | 76  | [Add Two Numbers]()                                                                                                                                   |
-| 77  | [Median of two Sorted Arrays]()                                                                                                                       |
+| 77  | [Median of two Sorted Arrays]()                                                                                                                    Done         |
 | 78  | [ZigZag Conversion]()                                                                                                                                 |
 | 79  | [Reverse Integer](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ReverseInteger.py)                                       | Done        |
 | 80  | [Search a 2D Matrix]()                                                                                                                                |
