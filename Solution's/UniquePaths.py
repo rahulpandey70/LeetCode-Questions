@@ -8,6 +8,17 @@ return the number of possible unique paths that the robot can take to reach the 
 
 The test cases are generated so that the answer will be less than or equal to 2 * 109.
 
+Example:-
+Input: m = 3, n = 7
+Output: 28
+
+Input: m = 3, n = 2
+Output: 3
+Explanation: From the top-left corner, there are a total of 3 ways to reach the bottom-right corner:
+1. Right -> Down -> Down
+2. Down -> Down -> Right
+3. Down -> Right -> Down
+
 """
 
 
