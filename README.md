@@ -1,4 +1,4 @@
-# LeetCode Question (Language Only Python)
+# 🔥 LeetCode DSA Question'S
 
 > Click :star: if you like the project. Send Pull Request(PR) with your solution and not only solution you can also add question.
 
