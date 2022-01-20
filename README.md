@@ -114,7 +114,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 75  | [Find Median from Data Stream]()                                                                                                                      |
 | 76  | [Add Two Numbers](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/AddTwoNumbers.py)                                        | Done        |
 | 77  | [Median of two Sorted Arrays](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/MedianOfTwoSortedArray.py)                   | Done        |
-| 78  | [ZigZag Conversion]()                                                                                                                                 |
+| 78  | [ZigZag Conversion](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ZigZagConversion.py)                                   | Done        |
 | 79  | [Reverse Integer](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/ReverseInteger.py)                                       | Done        |
 | 80  | [Search a 2D Matrix](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SearchA2DMatrix.py)                                   | Done        |
 | 81  | [Search a 2D Matrix 2](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/SearchA2DMatrix2.py)                                | Done        |
