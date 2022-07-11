@@ -72,7 +72,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 33  | [Graph Valid Tree (Leetcode Premium)]()                                                                                                               |
 | 34  | [Number of Connected Components in an Undirected Graph (Leetcode Premium)]()                                                                          |
 | 35  | [Insert Interval]()                                                                                                                                   |
-| 36  | [Merge Intervals]()                                                                                                                                   |
+| 36  | [Merge Intervals](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/mergeIntervals.js) |Done                                                                                                                                   |
 | 37  | [Non-overlapping Intervals]()                                                                                                                         |
 | 38  | [Meeting Rooms (Leetcode Premium)]()                                                                                                                  |
 | 39  | [Meeting Rooms II (Leetcode Premium)]()                                                                                                               |
