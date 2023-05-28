@@ -1,6 +1,6 @@
 # 🔥 LeetCode DSA Question'S
 
-> Click :star: if you like the project. Send Pull Request(PR) with your solution and not only solution you can also add question.
+> Click :star: if you like the project. This is a dsa pratice repo for beginner's, who just started dsa, they don't have to think much about time and space complexity just try to solve. Also if anyone wanted to add new question's with solution can add.
 
 # Useful Information.
 
@@ -72,7 +72,7 @@ Below is the list of some of the most used Big O notations and their performance
 | 33  | [Graph Valid Tree (Leetcode Premium)]()                                                                                                               |
 | 34  | [Number of Connected Components in an Undirected Graph (Leetcode Premium)]()                                                                          |
 | 35  | [Insert Interval]()                                                                                                                                   |
-| 36  | [Merge Intervals](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/mergeIntervals.js) |Done                                                                                                                                   |
+| 36  | [Merge Intervals](https://github.com/rahulpandey70/LeetCode-Questions/blob/master/Solution's/mergeIntervals.js)                                       | Done        |
 | 37  | [Non-overlapping Intervals]()                                                                                                                         |
 | 38  | [Meeting Rooms (Leetcode Premium)]()                                                                                                                  |
 | 39  | [Meeting Rooms II (Leetcode Premium)]()                                                                                                               |
