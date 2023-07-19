@@ -1,4 +1,4 @@
-    """
+"""
     Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
 
     Example:
@@ -10,7 +10,7 @@
     Output: 2.50000
     Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
     
-    """
+"""
 
 def findMedianSortedArrays(self, nums1, nums2):
     lst = nums1 + nums2
