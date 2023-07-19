@@ -1,6 +1,6 @@
 # 🔥 LeetCode DSA Question'S
 
-> Click :star: if you like the project. This is a dsa pratice repo for beginner's, who just started dsa, they don't have to think much about time and space complexity just try to solve. Also if anyone wanted to add new question's with solution can add.
+> This is my Dsa practice repository. I'll try to solve 4 to 5 problem's everyday to keep myself consistent.
 
 # Useful Information.
 
