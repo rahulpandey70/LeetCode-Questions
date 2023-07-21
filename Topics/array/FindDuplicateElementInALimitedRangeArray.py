@@ -10,7 +10,9 @@
     Output: The duplicate element is 2
     
     1. Find the sum of all element and find the difference between it.
+    
     2. For each array element nums[i], invert the sign(positive and negative) of the element present at index nums[i] if it is positive; otherwise, if the element is already negative, then it is a duplicate.
+    
     3. Use hashing to solve this problem. We can use a visited boolean array to mark if an element is seen before or not. If the element is already encountered before, the visited array will return true.
 
 """
